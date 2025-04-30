@@ -1,4 +1,5 @@
 🛍️ Amazon Clone
+
 This project is a fully front-end clone of the Amazon India homepage, developed using HTML5 and CSS3. The goal of this project is to replicate the design and structure of Amazon’s main landing page to strengthen frontend development skills, particularly in layout design, styling, responsiveness, and user interface elements.
 ---
 ![Screenshot of Amazon Clone](Top.png)
